@@ -1,6 +1,6 @@
 # edge-rebase-101
 
-Pre-features
+Pre-features adding something before feature 1
 
 # Setup
 
