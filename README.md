@@ -9,3 +9,4 @@ Pre-features adding something before feature 1. Another change before feature 1.
 # Feature 01
 
 - Commit 01
+- Commit 02 (Change to the second commit)
